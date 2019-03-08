@@ -10,7 +10,7 @@ const UnitRow = ({ html_id, id, created_at, instances, plus_minus }) =>
                  <div className="data-list">{name}</div>) }
         </td>
         <td>
-            { plus_minus["plus_minus"] }
+            { plus_minus["plus_minus"] } 
         </td>
         <td>
             {/**/}
